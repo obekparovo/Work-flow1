@@ -1,5 +1,9 @@
 Name: Tutorial1
-On: Push
+On:
+   Push:
+       branches:
+         - dev
+    
 
 jobs:
     job1: 
